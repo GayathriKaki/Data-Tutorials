@@ -1,0 +1,11 @@
+Data processing : Converting raw data to business model,to generate productive analytical models to data
+
+https://www.microsoft.com/en-au/cloud-training-events/
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/connectivity-architecture
+
+https://docs.microsoft.com/en-us/learn/certifications/azure-database-administrator-associate/
+
+https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
+
+https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/
